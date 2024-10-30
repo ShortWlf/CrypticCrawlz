@@ -13,3 +13,7 @@ Thanks for being here, and let the adventure begin!
 🎮🧙‍♂️🗡️
 
 The Cryptic Crawlz Dev Team
+
+-
+
+https://sludge-ent.itch.io/cryptic-crawlz
