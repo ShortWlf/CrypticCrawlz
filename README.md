@@ -1,3 +1,6 @@
+![Screenshot 2024-10-30 025345](https://github.com/user-attachments/assets/79d6ae72-7301-4403-9c97-ab03b179d56d)
+
+
 # CrypticCrawlz
 Dungeon Crawler RPG Adventure game.
 
