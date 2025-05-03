@@ -1,4 +1,7 @@
-![Screenshot 2024-10-30 025345](https://github.com/user-attachments/assets/79d6ae72-7301-4403-9c97-ab03b179d56d)
+![cctlogo](https://github.com/user-attachments/assets/f1445b42-4c4c-4749-ba58-10e3cecda469)
+
+![ccdice](https://github.com/user-attachments/assets/c0ff2ba4-2457-49cb-8ad3-9ad081c7fbec)
+
 
 Dungeon Crawler RPG Adventure game.
 
@@ -16,5 +19,7 @@ Thanks for being here, and let the adventure begin!
 The Cryptic Crawlz Dev Team
 
 -
+
+https://sludge-ent.itch.io/cryptic-crawlz
 
 https://sludge-ent.itch.io/cryptic-crawlz
