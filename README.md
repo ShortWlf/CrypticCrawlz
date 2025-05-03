@@ -1,8 +1,5 @@
 ![cctlogo](https://github.com/user-attachments/assets/f1445b42-4c4c-4749-ba58-10e3cecda469)
 
-![ccdice](https://github.com/user-attachments/assets/c0ff2ba4-2457-49cb-8ad3-9ad081c7fbec)
-
-
 Dungeon Crawler RPG Adventure game.
 
 Cryptic Crawlz community! We're thrilled to have you join us as we embark on this epic journey together. 
