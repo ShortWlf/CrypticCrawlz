@@ -19,4 +19,4 @@ The Cryptic Crawlz Dev Team
 
 https://sludge-ent.itch.io/cryptic-crawlz
 
-[https://sludge-ent.itch.io/cryptic-crawlz](https://gamejolt.com/games/crypticcrawlz/990468)
+https://gamejolt.com/games/crypticcrawlz/990468
